@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Aaron Soria
 
-## 💻 Software Engineer | Full Stack Developer
+## 💻 Software Engineer | Full Stack Developer | CEO @ [Draco Pet Healthcare](https://dracopethealthcare.com/)
 
 Soy un apasionado por el desarrollo de software, especializado en construir soluciones eficientes y escalables. Me gusta trabajar tanto en el frontend como en el backend, con un enfoque en crear productos de calidad que generen impacto.
 
-- 🚀 Interesado en **Desarrollo Web**, **APIs**, **Aplicaciones Móviles** y **DevOps**.
+- 🚀 **CEO de** [Draco Pet Healthcare](https://dracopethealthcare.com/): plataforma digital de salud para mascotas.
 - ⚡ Tech Stack principal: **C# (.NET)**, **Vue.js**, **Flutter**, **Python** y aprendiendo **Go**.
 - 🎓 Formación: Ingeniero en Informática | Master en Ciencias Computacionales y Matemáticas.
 - 💬 Siempre abierto a colaborar en proyectos open-source y compartir conocimientos.
@@ -16,6 +16,7 @@ Soy un apasionado por el desarrollo de software, especializado en construir solu
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaronSoria)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaroon2895@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarons28/)
+[![Draco Pet Healthcare](https://img.shields.io/badge/Draco%20Pet%20Healthcare-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dracopethealthcare.com/)
 
 ---
 
